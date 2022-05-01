@@ -1,6 +1,6 @@
 # What is This Repo?
 
-Inspired by discussion in a [https://discourse.julialang.org/t/blog-post-about-my-experiences-with-julia/79976](Julia Discourse thread), this repo is meant to help organize community efforts to enrich Julia's function documentation.
+Inspired by discussion in a [Julia Discourse thread](https://discourse.julialang.org/t/blog-post-about-my-experiences-with-julia/79976), this repo is meant to help organize community efforts to enrich Julia's function documentation.
 
 The first call to action was at [https://discourse.julialang.org/t/coordinating-community-efforts-to-enrich-function-docs/80338](https://discourse.julialang.org/t/coordinating-community-efforts-to-enrich-function-docs/80338) and we will post follow ups in the future.
 
