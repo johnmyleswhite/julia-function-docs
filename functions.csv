@@ -1,7 +1,5 @@
 function,suggester,suggested,writer_role,reader_role,notes
 "Base.sleep","ufechner7","2022-05-01",,,"needs an explanation how to sleep for less than 1ms or with a resolution better than 1ms, e.g. a link to Base.Libc.systemsleep"
-"sin","ufechner7","2022-05-01",,,"Both functions have dead links to sind and friends"
-"cos","ufechner7","2022-05-01",,,"Both functions have dead links to sind and friends"
 "abs","DNF","2022-05-01",,,"abs2, on the other hand, has the same issue, but does not include the explanation about overflow, and is generally much more sparse. It should probably also include a brief mention of why it exists, i.e. for performance reasons. If the performance aspect is left out, the function seems quite pointless. It also lacks a 'see also' section."
 "copy","rafael.guerra","2022-05-01",,,"The copy() function is described as a “shallow copy” in the REPL documentation. To a non-programmer like me, it seems shocking that a function with such a name could ever fail to copy a Julia object. The doc should explain that it fails if the objects contain immutable elements, or whatever is the right explanation."
 "abspath","DNF","2022-05-01",,,"abspath lacks examples, and should point to joinpath and other related functions."
